@@ -1,0 +1,8 @@
+{
+    "quests":[
+        {"id":1,"q1":"Qual liguagem de programação o arquivvo termina com .ts"}
+    ],
+    "respond":[
+        {"id":1,"r1":"Typescript"}
+    ]
+}
